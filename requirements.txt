@@ -1,0 +1,8 @@
+sqlmodel
+pydantic
+sqlalchemy
+requests
+python-decouple
+psycopg[binary] 
+schedule
+pandas
